@@ -1,3 +1,5 @@
+package Engines;
+
 public class ElectricMotor {
 
     int batteryLevel;
