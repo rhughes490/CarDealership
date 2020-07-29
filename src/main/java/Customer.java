@@ -1,5 +1,5 @@
 public class Customer {
 
-    wallet
-    collection of vehicles
+//    wallet
+//    collection of vehicles
 }

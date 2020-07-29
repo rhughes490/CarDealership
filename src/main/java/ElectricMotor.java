@@ -1,7 +1,7 @@
 import Vehicles.Vehicle;
 
-public class ElectricMotor extends Vehicle {
+public class ElectricMotor {
 
-    batteryLevel()
+    //batteryLevel
 
 }

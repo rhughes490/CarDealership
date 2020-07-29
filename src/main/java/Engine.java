@@ -1,6 +1,6 @@
 public class Engine {
 
-    fuelTank()
+    //fuelTank
 
-    engineSize()
+    //engineSize
 }
